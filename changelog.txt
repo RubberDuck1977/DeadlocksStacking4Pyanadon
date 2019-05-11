@@ -1,0 +1,490 @@
+Version: 0.5.5
+Date 5.5.2019
+
+  Changes:
+ 
+    - changed py coal processing and deadlock's beltboxes loaders from optional to depended
+    - added stdlib as depended
+
+  Minor Fixes:
+
+    - none
+
+    - Added to stacking:
+
+     from High Tech
+    
+    - rare earth ore
+    - phosphate rock
+    - rare earth oxides
+    - rare earth concentrate
+    - re-tin alloy
+    - phenolic board
+    - phenol
+    - mounted circuit substrate 3
+    - printed circuit substrate 3
+    - printed circuit substrate 2 
+    - p doped silicon
+    - ferrochromium alloy
+    - smd diode
+    - diode core
+    - crude cermet
+    - cermet
+-------------------------------------------------------------------------------------------
+Version: 0.5.4
+Date 2.5.2019
+
+  Changes:
+ 
+    - none
+
+  Minor Fixes:
+
+    - fixed molybdenite-dust migrations shared lua
+      thanks to reapersms for pointing this out
+
+    - Added to stacking:
+
+     from High Tech
+    
+    - capacitor termination
+    - capacitor core
+    - bakelite
+    - rare earth powder
+    - rare earth dust
+    - light n doped silicon
+    - heavy n doped silicon
+    - silicon wafer
+    - zinc oxide nanoparticles
+    - zipir carcass
+    - zinc nanocompound
+    - zinc nanocomplex
+    - zinc acetate
+    - yag laser module
+    - volumetric energy capacitor
+    - varphi josephson junction
+-----------------------------------------------------------------------------------------
+Version: 0.5.3
+Date 22.4.2019
+
+  Changes:
+ 
+    - none
+
+  Minor Fixes:
+
+    - fixed double entry of molybdenite-dust thanks to Alluvial for the help
+
+    - Added to stacking:
+      none
+-----------------------------------------------------------------------------------------
+Version: 0.5.2
+Date 21.4.2019
+
+  Changes:
+ 
+    - none
+
+  Minor Fixes:
+
+    - fixed a typo
+
+    - Added to stacking:
+
+
+-------------------------------------------------------------------------------------------
+Version: 0.5.1
+Date 21.4.2019
+
+  Changes:
+ 
+    - none
+
+  Minor Fixes:
+
+    - none
+
+    - Added to stacking:
+
+
+     from Fusion Energy
+    - molybdenite dust
+    - superconducting magnetic core
+    - crude diamond
+    - industrial diamond
+    - washed diamond
+with this update everything from fusion energy should be added to stacking
+next up will be adding rest PY High Tech to stacking
+-------------------------------------------------------------------------------------------
+Version: 0.5.0
+Date 7.4.2019
+
+  Changes:
+ 
+    - none
+
+  Minor Fixes:
+
+    - none
+
+    - Added to stacking:
+
+
+     from Fusion Energy
+    - silver foam
+    - super conducting wire
+    - super conducting coil
+    - reinforced wall shield
+    - nuclear sample
+    - nexelit matrix
+    - nenbit matrix
+    - magnetic core
+    - lead container
+    - ferrite
+    - divertor
+    - deposited vanadium core
+    - control unit
+    - coil core
+    - coated container
+-------------------------------------------------------------------------------------------
+Version: 0.4.9
+Date 31.3.2019
+
+  Changes:
+ 
+    - changed name for molybdenum ore
+
+  Minor Fixes:
+
+    - none
+
+    - Added to stacking:
+
+
+     from Fusion Energy
+    - boron mixture
+    - boron
+    - blancket chassi
+    - blanket
+    - boron trioxide dust
+    - silver-zinc alloy
+    - regolite dust
+    - methyl acrylate
+    - kmauts ration
+    - calcinates
+    - serine
+    - vanadium oxide
+    - sodium chlorate
+    - molybdenite dust
+    - molybdenum concentrate
+    - crushed regolite
+    - powdered regolite
+
+more fusion related items coming
+-------------------------------------------------------------------------------------------
+Version: 0.4.7
+Date 16.3.2019
+
+  Added to stacking:
+   
+   from Coal Processing
+  - gravel (requested)
+
+
+   from Raw Ores:
+  - high grade silver
+  - reduced silver
+  - sintered silver
+  - zinc concentrate
+  - grade 1,2,3,4 zinc
+  - high grade zinc
+  - zinc ore
+  - powdered zinc
+  - purified zinc
+  - reduced zinc
+  - sintered zinc
+  - gold concentrate
+  - gold plate
+  - gold precipitate
+  - gold precipitate 2
+  - purified gold
+
+with this update now everything (i hope) from Raw Ores has been added to this mod
+-------------------------------------------------------------------------------------------
+Version: 0.4.6
+Date 9.3.2019
+
+  Info:
+
+    - !!!! from now on use the new mod from shanemadden !!!!
+    https://mods.factorio.com/mod/deadlock-beltboxes-loaders
+
+
+  Changes:
+
+    - convert mod to 0.17
+    - using the new mod from shanemadden
+
+
+  Special Thanks to Shanemadden for the help
+-------------------------------------------------------------------------------------------
+Version: 0.4.5
+Date 3.3.2019
+
+  Changes:
+ 
+    - none
+
+  Minor Fixes:
+
+    - none
+
+    - Added to stacking:
+
+
+     from Raw ores
+    - clean nexelit
+    - fine nexelit
+    - grade 1,2,3 nexelit
+    - high grade nexelit
+    - nexelit rejects
+    - reduced nexelit
+    - sintered nexelit
+    - 20% uranium powder
+    - 40% uranium powder
+    - 70% uranium powder
+    - grade 1,2 uranium
+    - powdered uranium
+    - uranium fuel cell MK02
+    - uranium fuel cell MK03
+    - uranium fuel cell MK04
+    - uranium fuel cell MK05
+
+    next up:
+    - silver,zinc and gold
+-------------------------------------------------------------------------------------------
+Version: 0.4.4
+Date 24.2.2019
+
+  Changes:
+ 
+    - none
+
+  Minor Fixes:
+
+    - none
+
+    - Added to stacking:
+
+     from Coal Processing
+    - calcium carbide
+    - ash
+    - rich clay
+
+     from Raw ores
+    - red hot coke
+    - pyrite
+    - grade 1,2,3,4 lead
+    - high grade lead
+    - lead dust
+    - lead refined dust 1,2,3
+    - lead ore
+    - reduced lead
+    - sintered lead
+    - silver-lead concentrate
+    - grade 1,2,3,4 nickel
+    - high grade nickel
+    - nickel rejects
+    - nickel ore
+    - reduced nickel
+    - sintered nickel
+
+    next upload:
+    - hopefully changing to 0.17
+    - silver,zinc and gold or nexelit and uranium
+-------------------------------------------------------------------------------------------
+Version: 0.4.3
+Date 17.2.2019
+
+  Changes:
+ 
+    - none
+
+  Minor Fixes:
+
+    - none
+
+    - Added to stacking:
+
+     from High Tech
+    - vacuum tube
+
+     from Raw ores
+    - chromite rejects
+    - grade 1,2,3,4 chromite
+    - high chromite
+    - processed chromite
+    - reduced chromite
+    - sintered chromium
+    - chromium ore
+    - concentrated titanium
+    - grade 1,2,3,4 titanium
+    - high grade titanium
+    - high grade titanium powder
+    - titanium ore
+    - powdered titanium
+    - reduced titanium
+    - sintered titanium
+    - titanium enriched dust
+    - titanium rejects
+    - titanium residue
+-------------------------------------------------------------------------------------------
+Version: 0.4.2
+Date 10.2.2019
+
+  Changes:
+ 
+    - none
+
+  Minor Fixes:
+
+    - none
+
+    - Added to stacking:
+
+     from Raw ores
+    - grade 1,2,3,4 tin
+    - high grade tin
+    - high tin concentrate
+    - high tin mix
+    - tin ore
+    - powdered tin
+    - reduced 99.9% tin
+    - sintered tin
+    - tin concentrate
+    - tin dust
+    - tin ore rejects
+    - tin rejects
+    - copper low dust
+    - copper rejects
+    - grade 1,2,3,4 copper
+    - high grade copper
+    - low grade copper
+    - reduced 99,9% copper
+    - sintered copper
+------------------------------------------------------------------------------------------
+Version: 0.4.1
+Date 5.2.2019
+
+  Changes:
+ 
+    - sodium hydroxide from science pack's 1&2 to science pack 1
+
+  Minor Fixes:
+
+    - none
+
+    - Added to stacking:
+
+     from Raw ores
+    - processed iron ore (forgot to add it in previous update)
+    - aluminium ore
+    - powdered aluminium
+    - sodium aluminate
+    - crystalized sodium aluminate
+    - high grade alumina
+    - reduced 99,9% aluminium
+    - sintered aluminium
+    - quartz ore
+    - powdered quartz
+    - crushed quartz
+    - high grade quartz
+    - purified quartz
+-------------------------------------------------------------------------------------------
+
+Version: 0.4.0
+Date 3.2.2019
+
+  Minor Fixes:
+
+    - none
+
+    - Added to stacking:
+
+     from Raw ores
+    - grade 1,2,3,4 iron
+    - high grade iron
+    - iron concentrate
+    - iron dust concentrate
+    - iron ore dust
+    - reduced 99.9% iron
+    - sintered iron
+    - sponge iron
+    - unslimed iron
+-------------------------------------------------------------------------------------------
+Version: 0.3.9
+Date 20.1.2019
+
+  Minor Fixes:
+
+    - none
+
+    - Added to stacking:
+
+     from High tech
+    - carbon nanotube
+    - carbon aerogel
+    - biopolymer
+    - aerogel
+    - phosphate glass
+    - graphene roll
+
+     from Raw ores
+    - salt
+    - sodium hydroxide
+    - aramid
+-------------------------------------------------------------------------------------------
+Version: 0.3.8
+Date: 13. 1. 2019
+
+  Minor Fixes: 
+
+    - none
+
+    - Added to stacking:
+       
+     from Fusion Energy
+    - molybdenum plate
+    - boron carbide
+    - control unit
+    - super alloy
+    - wall shield
+    - niobium-titanium alloy
+
+    from High Tech
+    - rare earth magnet
+    - intelligent unit
+    - hyperelastic material
+    - heavy fermion material
+    - harmonic absorber
+------------------------------------------------------------------------------------------
+Version: 0.3.7
+Date: 5. 1. 2019
+
+  Minor Fixes: 
+
+    - changed some names to get stacking working (thanks to Kingarthur)
+
+    - Added to stacking:
+
+    - Kevlar
+    - Nb-Fe Alloy
+    - Chromite Sand
+    - Coal Dust
+    - Nichrome
+    - Sand Casting
+    - Tailings Dust
+    - Niobium Plate
+    - Fuelrod MK1
+    - Organic Matter
+    - Coarse Fraction
