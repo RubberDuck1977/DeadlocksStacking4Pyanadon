@@ -3,7 +3,7 @@ Date 12.5.2019
 
   Changes:
  
-    - 
+    - hopefully added rest off pyanodon's suite as optional
 
   Minor Fixes:
 
@@ -15,20 +15,20 @@ Date 12.5.2019
     
     - superconductor servomechanims
     - superconductor
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - supercapacitor shell
+    - supercapacitor core 
+    - supercapacitor
+    - sodium silicate
+    - skin
+    - silica powder
+    - superconductor substrate
+    - rf-gel
+    - resorcinol
+    - resilin
+    - rayon
+    - ralesia powder
+    - sub-denier microfiber
+    - quantum vortex storage system
 -------------------------------------------------------------------------------------------
 Version: 0.5.5
 Date 5.5.2019
